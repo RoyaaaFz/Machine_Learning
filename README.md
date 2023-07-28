@@ -1,2 +1,2 @@
 # Machine_Learning_Projects
-#### This a repository for machine learning projects.
+#### This is a repository for prediction machine learning projects.
